@@ -1,0 +1,142 @@
+p{
+	font:bold italic 24px Gill Sans MT;
+	padding: 10px 10px 40px 40px;
+    border:8px ridge green;
+    margin:12px 12px 12px 12px
+}
+div{
+	border:12px ridge blue;
+	background-color:#FF5E99;
+	width:840px;
+	margin:12px 12px 12px 12px
+	height:600px
+	width:450px
+	background-image:url(pp.png);
+	background-repeat:no repeat;
+	background-position:center top;
+}
+span{
+	color:yellow;
+	text-decoration:underline;
+}
+.red{
+	color:red;
+}
+.green{
+	color:green;
+}
+.orange{
+	color:orange;
+}
+#blue{
+	color:blue;
+}
+#yellow{
+	color:yellow;
+}
+#pink{
+	color:pink;
+}
+.pink p{
+	color:#FF5E99;
+}
+#BB p{
+	color:#BBBBBB
+}
+p:first-letter{
+	color:green;
+	font-weight:80px;
+}
+#parent:nth-child(even){
+	background-color:grey;
+	color:white;
+}
+a{
+	color:green;
+	text-decoration:blink;
+}
+a:hover{
+	color:red;
+	text-decoration:underline;
+}
+a:active{
+	color:orange;
+}
+ul{
+	list-style-type:square;
+	line-height:30px; 
+}
+.separate{
+	margin:100px 60px 12px 10px;
+}   
+.rounded_box{
+	background-color:yellow;
+	width:200px;
+	text-align:center;
+	padding:20px 0px;     
+	border-radius:15px;
+	margin:10px 10px 10px 10px;   
+	background-image:linear-gradient(to top, #04507b,#00a2ff);
+	
+}
+.pic{
+	float:right;
+}
+.para2{
+	clear:both;
+}
+.left_column{
+	float:left;
+	background-color:yellow;
+	height:20px;
+	width:200px;
+	color:black;
+	text-align:center;
+	margin:5px;
+}
+.left1_column{
+	float:left;
+	background-color:yellow;
+	height:20px;
+	width:200px;
+	color:black;
+	text-align:center;
+	margin:5px;
+}
+.left2_column{
+	float:left;
+	background-color:yellow;
+	height:20px;
+	width:200px;
+	color:black;
+	text-align:center;
+	margin:5px;
+}
+.middle_column{
+	float:left;
+	background-color:yellow;
+	height:20px;
+	width:200px;
+	color:black;
+	text-align:center;
+	margin:5px;
+}
+.right_column{
+	float:left;
+	background-color:yellow;
+	height:20px;
+	width:200px;
+	color:black;
+	text-align:center;
+	margin:5px;
+}
+.right1_column{
+	float:left;
+	background-color:yellow;
+	height:20px;
+	width:200px;
+	color:black;
+	text-align:center;
+	margin:5px;
+}
+
